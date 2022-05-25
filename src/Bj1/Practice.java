@@ -8,17 +8,11 @@ import java.io.InputStreamReader;
 public class Practice {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        String[] str = br.readLine().split(" ");
+        int A = Integer.parseInt(str[0]);
+        int B = Integer.parseInt(str[1]);
 
-        int A = Integer.parseInt(br.readLine());
-        String B = br.readLine();
+        System.out.println(A * B);
 
-        br.close();
-
-        char[] b = B.toCharArray();
-
-        System.out.println(A * (b[2]-'0'));
-        System.out.println(A * (b[1]-'0'));
-        System.out.println(A * (b[0]-'0'));
-        System.out.println(A * Integer.parseInt(B));
     }
 }
