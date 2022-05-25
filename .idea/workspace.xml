@@ -5,13 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e8f5480-a124-4a3a-9f39-69b07dd2c324" name="Changes" comment="bj/2557/java">
-      <change afterPath="$PROJECT_DIR$/src/Bj1/AMutipleB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bj1/A4B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bj1/ADvideB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bj1/Boolgi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bj1/Multiple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bj1/Name.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bj1/Practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bj1/Remain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
@@ -25,6 +34,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Bj1/A4B.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Bj1/Boolgi.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Bj1/Multiple.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Bj1/Name.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Bj1/Practice.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Bj1/Remain.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -50,15 +67,16 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+    "settings.editor.selected.configurable": "editor.preferences.import"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AMutipleB">
-    <configuration name="AMutipleB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bj1.AMutipleB" />
+  <component name="RunManager" selected="Application.Practice">
+    <configuration name="A4B" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bj1.A4B" />
       <module name="BjCoding" />
       <extension name="coverage">
         <pattern>
@@ -70,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="APlusB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bj1.APlusB" />
+    <configuration name="Boolgi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bj1.Boolgi" />
       <module name="BjCoding" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bj1.Cat" />
+    <configuration name="Name" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bj1.Name" />
       <module name="BjCoding" />
       <extension name="coverage">
         <pattern>
@@ -96,8 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bj1.HelloWorld" />
+    <configuration name="Practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bj1.Practice" />
       <module name="BjCoding" />
       <extension name="coverage">
         <pattern>
@@ -109,8 +127,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sessak" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bj1.Sessak" />
+    <configuration name="Remain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bj1.Remain" />
       <module name="BjCoding" />
       <extension name="coverage">
         <pattern>
@@ -124,7 +142,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AMutipleB" />
+        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.Remain" />
+        <item itemvalue="Application.A4B" />
+        <item itemvalue="Application.Boolgi" />
+        <item itemvalue="Application.Name" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +161,9 @@
       <workItem from="1653354625811" duration="4211000" />
       <workItem from="1653435699619" duration="253000" />
       <workItem from="1653435973827" duration="156000" />
-      <workItem from="1653436153332" duration="487000" />
+      <workItem from="1653436153332" duration="2634000" />
+      <workItem from="1653438833971" duration="6414000" />
+      <workItem from="1653446114724" duration="10162000" />
     </task>
     <task id="LOCAL-00001" summary="bj/2557/java">
       <created>1653355696940</created>
@@ -176,7 +200,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653382724397</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="bj/2557/java">
+      <created>1653436727284</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1653436727284</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +227,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bj/2557/java" />
     <option name="LAST_COMMIT_MESSAGE" value="bj/2557/java" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
