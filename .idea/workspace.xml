@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e8f5480-a124-4a3a-9f39-69b07dd2c324" name="Changes" comment="bj/java">
+      <change afterPath="$PROJECT_DIR$/src/Bj2/Oven.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bj2/Alarm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bj2/Alarm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+  </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
@@ -77,10 +80,10 @@
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.completion"
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Alarm">
+  <component name="RunManager" selected="Application.Oven">
     <configuration name="Alarm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="11" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -139,8 +142,10 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bj2.LeapYear" />
+    <configuration name="Oven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Bj2.Oven" />
       <module name="BjCoding" />
       <extension name="coverage">
         <pattern>
@@ -148,9 +153,7 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <method v="2" />
     </configuration>
     <configuration name="TestScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bj2.TestScore" />
@@ -176,18 +179,18 @@
     <list>
       <item itemvalue="Application.Bj2.Quadrant" />
       <item itemvalue="Application.Alarm" />
+      <item itemvalue="Application.Oven" />
       <item itemvalue="Application.Compare" />
       <item itemvalue="Application.Four" />
-      <item itemvalue="Application.LeapYear" />
       <item itemvalue="Application.TestScore" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Oven" />
         <item itemvalue="Application.Alarm" />
         <item itemvalue="Application.Four" />
         <item itemvalue="Application.Compare" />
         <item itemvalue="Application.TestScore" />
-        <item itemvalue="Application.LeapYear" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +226,7 @@
       <workItem from="1653545493101" duration="155000" />
       <workItem from="1653545666122" duration="753000" />
       <workItem from="1653546741979" duration="551000" />
-      <workItem from="1653547314608" duration="1607000" />
+      <workItem from="1653547314608" duration="6471000" />
     </task>
     <task id="LOCAL-00001" summary="bj/2557/java">
       <created>1653355696940</created>
@@ -295,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653547683065</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="bj/java">
+      <created>1653549226317</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1653549226317</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
