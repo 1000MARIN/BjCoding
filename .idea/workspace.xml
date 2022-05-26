@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e8f5480-a124-4a3a-9f39-69b07dd2c324" name="Changes" comment="bj/java">
-      <change afterPath="$PROJECT_DIR$/src/Bj2/Compare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bj2/LeapYear.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bj2/Quadrant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bj2/TestScore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bj2/Four.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bj2/Quadrant.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +41,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -61,20 +61,51 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/lcj/Java/BjCoding",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "Errors"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Quadrant">
+  <component name="RunManager" selected="Application.Four">
+    <configuration name="Bj2.Quadrant" type="Application" factoryName="Application" activateToolWindowBeforeRun="false" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Bj2.Quadrant" />
+      <module name="BjCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bj2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="MakeNoErrorCheck" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Compare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bj2.Compare" />
+      <module name="BjCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bj2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Four" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Bj2.Four" />
       <module name="BjCoding" />
       <extension name="coverage">
         <pattern>
@@ -112,19 +143,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Quadrant" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bj2.Quadrant" />
-      <module name="BjCoding" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Bj2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestScore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bj2.TestScore" />
       <module name="BjCoding" />
@@ -138,13 +156,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <module name="BjCoding" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Bj2.Quadrant" />
+      <item itemvalue="Application.Compare" />
+      <item itemvalue="Application.Four" />
+      <item itemvalue="Application.LeapYear" />
+      <item itemvalue="Application.Practice" />
+      <item itemvalue="Application.TestScore" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Quadrant" />
-        <item itemvalue="Application.LeapYear" />
-        <item itemvalue="Application.TestScore" />
+        <item itemvalue="Application.Four" />
         <item itemvalue="Application.Compare" />
-        <item itemvalue="Application.Practice" />
+        <item itemvalue="Application.TestScore" />
+        <item itemvalue="Application.LeapYear" />
       </list>
     </recent_temporary>
   </component>
@@ -166,7 +199,21 @@
       <workItem from="1653538418881" duration="350000" />
       <workItem from="1653538794718" duration="1317000" />
       <workItem from="1653540482955" duration="167000" />
-      <workItem from="1653540693230" duration="691000" />
+      <workItem from="1653540693230" duration="1440000" />
+      <workItem from="1653542165031" duration="190000" />
+      <workItem from="1653542376239" duration="286000" />
+      <workItem from="1653542711997" duration="258000" />
+      <workItem from="1653542997720" duration="137000" />
+      <workItem from="1653543157195" duration="155000" />
+      <workItem from="1653543339372" duration="314000" />
+      <workItem from="1653544125634" duration="56000" />
+      <workItem from="1653544195709" duration="61000" />
+      <workItem from="1653544272741" duration="941000" />
+      <workItem from="1653545252304" duration="223000" />
+      <workItem from="1653545493101" duration="155000" />
+      <workItem from="1653545666122" duration="753000" />
+      <workItem from="1653546741979" duration="551000" />
+      <workItem from="1653547314608" duration="31000" />
     </task>
     <task id="LOCAL-00001" summary="bj/2557/java">
       <created>1653355696940</created>
@@ -224,7 +271,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653468905905</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="bj/java">
+      <created>1653541669690</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1653541669690</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,5 +313,10 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/BjCoding$Quadrant.ic" NAME="Quadrant Coverage Results" MODIFIED="1653541565673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Bj2.*</FILTER>
+    </SUITE>
   </component>
 </project>
