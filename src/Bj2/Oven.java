@@ -32,6 +32,7 @@ public class Oven {
         }
         
         //가운데 공백을 두고 결과 출력
+        // time 2:15
         System.out.println(A + " " + B);
         
     }
