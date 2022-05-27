@@ -15,6 +15,8 @@ public class Oven {
         //두번째 줄에 출력해야하는 변수 하나는 StringTokenizer가 아닌 기본 입력을 사용
         int C = Integer.parseInt(br.readLine());
 
+
+
         //1시간은 60분이기에 C분에 60을 나눠서 나온 몫과 나머지를 각 시, 분애 합산
         A += C / 60;
         B += C % 60;
