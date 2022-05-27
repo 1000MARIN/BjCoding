@@ -30,6 +30,8 @@ public class Oven {
         if(A > 23) {
             A -= 24;
         }
+        
+        
         //가운데 공백을 두고 결과 출력
         System.out.println(A + " " + B);
         
