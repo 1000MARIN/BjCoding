@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e8f5480-a124-4a3a-9f39-69b07dd2c324" name="Changes" comment="bj/java">
-      <change afterPath="$PROJECT_DIR$/src/Bj2/EOF.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Bj2/Oven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bj2/Oven.java" afterDir="false" />
     </list>
@@ -229,7 +228,7 @@
       <workItem from="1653545666122" duration="753000" />
       <workItem from="1653546741979" duration="551000" />
       <workItem from="1653547314608" duration="7000000" />
-      <workItem from="1653608640732" duration="12836000" />
+      <workItem from="1653608640732" duration="12854000" />
     </task>
     <task id="LOCAL-00001" summary="bj/2557/java">
       <created>1653355696940</created>
